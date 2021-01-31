@@ -17,17 +17,5 @@
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"],
   "dependencies": [
-    {
-      "name": "ESPAsyncTCP",
-      "platforms": "espressif8266"
-    },
-    {
-      "name": "AsyncTCP",
-      "platforms": "espressif32"
-    },
-    {
-      "name": "Hash",
-      "platforms": "espressif8266"
-    }
   ]
 }
